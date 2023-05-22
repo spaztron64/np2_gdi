@@ -1,0 +1,46 @@
+C:\np2_svn_c\win9xc>link.exe kernel32.lib user32.lib gdi32.lib winspool.lib comd
+lg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odb
+ccp32.lib ddraw.lib dxguid.lib DSOUND.LIB winmm.lib comctl32.lib wsock32.lib /no
+logo /subsystem:windows /incremental:yes /pdb:"..\bin/np2cd.pdb" /debug /machine
+:AMD64 /out:"..\bin/np2cd.exe" /pdbtype:sept ..\obj\np2cdbg\*.obj
+LINK : warning LNK4224: /PDBTYPE is no longer supported;  ignored
+SCRNMNG.obj : error LNK2019: unresolved external symbol "struct NP2OSCFG np2oscf
+g" (?np2oscfg@@3UNP2OSCFG@@A) referenced in function "void __cdecl setwindowsize
+(int,int)" (?setwindowsize@@YAXHH@Z)
+WINKBD.obj : error LNK2001: unresolved external symbol "struct NP2OSCFG np2oscfg
+" (?np2oscfg@@3UNP2OSCFG@@A)
+COMMNG.obj : error LNK2019: unresolved external symbol "struct NP2OSCFG np2oscfg
+" (?np2oscfg@@3UNP2OSCFG@@A) referenced in function commng_create
+INI.obj : error LNK2001: unresolved external symbol "struct NP2OSCFG np2oscfg" (
+?np2oscfg@@3UNP2OSCFG@@A)
+JOYMNG.obj : error LNK2001: unresolved external symbol "struct NP2OSCFG np2oscfg
+" (?np2oscfg@@3UNP2OSCFG@@A)
+MENU.obj : error LNK2001: unresolved external symbol "struct NP2OSCFG np2oscfg"
+(?np2oscfg@@3UNP2OSCFG@@A)
+D_BMP.obj : error LNK2019: unresolved external symbol "char bmpfilefolder[]" (?b
+mpfilefolder@@3_OADA) referenced in function "void __cdecl dialog_writebmp(struc
+t HWND__ *)" (?dialog_writebmp@@YAXPAUHWND__@@@Z)
+INI.obj : error LNK2001: unresolved external symbol "char bmpfilefolder[]" (?bmp
+filefolder@@3_OADA)
+INI.obj : error LNK2001: unresolved external symbol "char hddfolder[]" (?hddfold
+er@@3_OADA)
+INI.obj : error LNK2001: unresolved external symbol "char fddfolder[]" (?fddfold
+er@@3_OADA)
+SYSMNG.obj : error LNK2001: unresolved external symbol "struct HWND__ * hWndMain
+" (?hWndMain@@3PAUHWND__@@A)
+MENU.obj : error LNK2019: unresolved external symbol "struct HWND__ * hWndMain"
+(?hWndMain@@3PAUHWND__@@A) referenced in function "void __cdecl sysmenu_initiali
+ze(void)" (?sysmenu_initialize@@YAXXZ)
+MOUSEMNG.obj : error LNK2001: unresolved external symbol "struct HWND__ * hWndMa
+in" (?hWndMain@@3PAUHWND__@@A)
+SCRNMNG.obj : error LNK2001: unresolved external symbol "struct HWND__ * hWndMai
+n" (?hWndMain@@3PAUHWND__@@A)
+SOUNDMNG.obj : error LNK2019: unresolved external symbol "struct HWND__ * hWndMa
+in" (?hWndMain@@3PAUHWND__@@A) referenced in function soundmng_create
+SYSMNG.obj : error LNK2019: unresolved external symbol "char const szAppCaption[
+]" (?szAppCaption@@3_OBDB) referenced in function sysmng_updatecaption
+LIBCD.lib(wincrt0.obj) : error LNK2019: unresolved external symbol WinMain refer
+enced in function WinMainCRTStartup
+..\bin/np2cd.exe : fatal error LNK1120: 7 unresolved externals
+
+C:\np2_svn_c\win9xc>

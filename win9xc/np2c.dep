@@ -1,0 +1,5670 @@
+# Microsoft Developer Studio Generated Dependency File, included by np2c.mak
+
+..\COMMON\BMPDATA.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\bmpdata.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\COMMON\LSTARRAY.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\COMMON\MILSTR.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\COMMON\PARTS.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\parts.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\COMMON\PROFILE.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\profile.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\common\textfile.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\COMMON\STRRES.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\COMMON\TEXTFILE.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\common\textfile.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\I286C\I286C.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\i286c\i286c.h"\
+	"..\i286c\i286c.mcr"\
+	"..\i286c\v30patch.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\mem\dmax86.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\I286C\I286C_0F.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\i286c\i286c.h"\
+	"..\i286c\i286c.mcr"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\I286C\I286C_8X.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\i286c\i286c.h"\
+	"..\i286c\i286c.mcr"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\I286C\I286C_EA.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\i286c\i286c.h"\
+	"..\i286c\i286c.mcr"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\I286C\I286C_F6.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\i286c\i286c.h"\
+	"..\i286c\i286c.mcr"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\I286C\I286C_FE.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\i286c\i286c.h"\
+	"..\i286c\i286c.mcr"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\I286C\I286C_MN.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\i286c\i286c.h"\
+	"..\i286c\i286c.mcr"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\I286C\I286C_RP.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\i286c\i286c.h"\
+	"..\i286c\i286c.mcr"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\I286C\I286C_SF.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\i286c\i286c.h"\
+	"..\i286c\i286c.mcr"\
+	"..\i286c\i286c_sf.mcr"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\I286C\MEMORY.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\font\font.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\mem\memegc.h"\
+	"..\mem\memems.h"\
+	"..\mem\memepp.h"\
+	"..\mem\memtram.h"\
+	"..\mem\memvram.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\I286C\V30PATCH.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\i286c\i286c.h"\
+	"..\i286c\i286c.mcr"\
+	"..\i286c\v30patch.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\mem\dmav30.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\MEM\DMAV30.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\mem\dmav30.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\MEM\DMAX86.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\mem\dmax86.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\MEM\MEMEGC.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\mem\memegc.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\MEM\MEMEMS.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\mem\memems.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\MEM\MEMEPP.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\mem\memepp.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\MEM\MEMTRAM.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\font\font.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\mem\memtram.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\MEM\MEMVRAM.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\mem\memvram.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\ARTIC.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\CGROM.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\font\font.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\CPUIO.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\CRTC.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\DIPSW.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\beep.h"\
+	"..\sound\sound.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+..\IO\DMAC.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\sasiio.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\sound.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\EGC.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\mem\memegc.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\EMSIO.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\EPSONIO.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\FDC.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\fdd\d88head.h"\
+	"..\fdd\fddfile.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\FDD320.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\GDC.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\gdc_cmd.tbl"\
+	"..\io\gdc_sub.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\timing.h"\
+	"..\vram\palettes.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\scrnmng.h"\
+	".\trace.h"\
+	
+
+..\IO\GDC_PSET.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\gdc_pset.h"\
+	"..\io\gdc_sub.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\mem\memegc.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\GDC_SUB.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\gdc_pset.h"\
+	"..\io\gdc_sub.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\IOCORE.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\cbuscore.h"\
+	"..\cbus\cs4231io.h"\
+	"..\cbus\ideio.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\iocore16.tbl"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\MOUSEIF.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\keystat.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\mousemng.h"\
+	".\trace.h"\
+	
+
+..\IO\NECIO.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\NMIIO.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\NP2SYSP.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\sxsibios.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\generic\hostdrv.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\taskmng.h"\
+	".\trace.h"\
+	
+
+..\IO\PIC.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\PIT.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\board14.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\beep.h"\
+	"..\sound\sound.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\PRINTIF.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\commng.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\SERIAL.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\keystat.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\commng.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\SYSPORT.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\beep.h"\
+	"..\sound\sound.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\IO\UPD4990.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\calendar.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\timemng.h"\
+	".\trace.h"\
+	
+
+..\CBUS\AMD98.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\amd98.h"\
+	"..\cbus\cbuscore.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\CBUS\BOARD118.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\board118.h"\
+	"..\cbus\cbuscore.h"\
+	"..\cbus\cs4231io.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\s98.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\CBUS\BOARD14.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\board14.h"\
+	"..\cbus\cbuscore.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\CBUS\BOARD26K.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\board26k.h"\
+	"..\cbus\cbuscore.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\s98.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\CBUS\BOARD86.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\board86.h"\
+	"..\cbus\cbuscore.h"\
+	"..\cbus\pcm86io.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\s98.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\CBUS\BOARDSPB.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\boardspb.h"\
+	"..\cbus\cbuscore.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\s98.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\CBUS\BOARDX2.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\boardx2.h"\
+	"..\cbus\cbuscore.h"\
+	"..\cbus\pcm86io.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\s98.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\CBUS\CBUSCORE.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\cbuscore.h"\
+	"..\cbus\ideio.h"\
+	"..\cbus\mpu98ii.h"\
+	"..\cbus\pc9861k.h"\
+	"..\cbus\sasiio.h"\
+	"..\cbus\scsiio.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\CBUS\CS4231IO.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\cs4231io.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\CBUS\MPU98II.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\cbuscore.h"\
+	"..\cbus\mpu98ii.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\commng.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\CBUS\PC9861K.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\CBUS\PCM86IO.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\pcm86io.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\BIOS\BIOS.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\bios\biosfd80.res"\
+	"..\bios\biosmem.h"\
+	"..\bios\fdfmt.h"\
+	"..\bios\itfrom.res"\
+	"..\bios\keytable.res"\
+	"..\bios\startup.res"\
+	"..\bios\sxsibios.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\fdd\d88head.h"\
+	"..\fdd\fdd_mtr.h"\
+	"..\fdd\fddfile.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\lio\lio.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\BIOS\BIOS09.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\bios\biosmem.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\BIOS\BIOS0C.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\bios\biosmem.h"\
+	"..\bios\rsbios.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\BIOS\BIOS12.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\bios\biosmem.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\BIOS\BIOS13.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\bios\biosmem.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\BIOS\BIOS18.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\bios\biosmem.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\font\font.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\gdc_sub.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\BIOS\BIOS19.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\bios\biosmem.h"\
+	"..\bios\rsbios.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\BIOS\BIOS1A.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\BIOS\BIOS1B.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\bios\biosmem.h"\
+	"..\bios\sxsibios.h"\
+	"..\cbus\scsicmd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\fdd\d88head.h"\
+	"..\fdd\fdd_mtr.h"\
+	"..\fdd\fddfile.h"\
+	"..\fdd\sxsi.h"\
+	"..\fdd\sxsicd.h"\
+	"..\fdd\sxsihdd.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\BIOS\BIOS1C.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\bios\biosmem.h"\
+	"..\calendar.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\parts.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\timemng.h"\
+	".\trace.h"\
+	
+
+..\BIOS\BIOS1F.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\bios\biosmem.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\BIOS\SXSIBIOS.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\bios\biosmem.h"\
+	"..\bios\sxsibios.h"\
+	"..\cbus\scsicmd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\fdd\sxsi.h"\
+	"..\fdd\sxsicd.h"\
+	"..\fdd\sxsihdd.h"\
+	"..\i286c\cpucore.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\timing.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\LIO\GCIRCLE.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\lio\lio.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\LIO\GLINE.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\gdc_sub.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\lio\lio.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\LIO\GPSET.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\lio\lio.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\LIO\GPUT1.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\lio\lio.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\LIO\GSCREEN.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\bios\biosmem.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\lio\lio.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\LIO\LIO.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\bios\biosmem.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\gdc_sub.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\lio\lio.h"\
+	"..\lio\lio.res"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\VRAM\DISPSYNC.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\dispsync.h"\
+	"..\vram\scrndraw.h"\
+	".\compiler.h"\
+	".\scrnmng.h"\
+	".\trace.h"\
+	
+
+..\VRAM\MAKEGRPH.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\dispsync.h"\
+	"..\vram\makegrph.h"\
+	"..\vram\makegrph.mcr"\
+	"..\vram\scrndraw.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\VRAM\MAKETEXT.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\font\font.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\dispsync.h"\
+	"..\vram\maketext.h"\
+	"..\vram\scrndraw.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\VRAM\MAKETGRP.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\font\font.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\dispsync.h"\
+	"..\vram\makegrph.h"\
+	"..\vram\makegrph.mcr"\
+	"..\vram\maketext.h"\
+	"..\vram\maketgrp.h"\
+	"..\vram\palettes.h"\
+	"..\vram\scrndraw.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\VRAM\PALETTES.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\palettes.h"\
+	"..\vram\scrndraw.h"\
+	".\compiler.h"\
+	".\scrnmng.h"\
+	".\trace.h"\
+	
+
+..\VRAM\SCRNBMP.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\bmpdata.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\dispsync.h"\
+	"..\vram\palettes.h"\
+	"..\vram\scrnbmp.h"\
+	"..\vram\scrndraw.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\VRAM\SCRNDRAW.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\dispsync.h"\
+	"..\vram\palettes.h"\
+	"..\vram\scrndraw.h"\
+	"..\vram\sdraw.h"\
+	".\compiler.h"\
+	".\scrnmng.h"\
+	".\trace.h"\
+	
+
+..\VRAM\SDRAW.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\vram\palettes.h"\
+	"..\vram\scrndraw.h"\
+	"..\vram\sdraw.h"\
+	"..\vram\sdraw.mcr"\
+	"..\vram\sdrawex.mcr"\
+	".\compiler.h"\
+	".\scrnmng.h"\
+	".\trace.h"\
+	
+
+..\VRAM\VRAM.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\VERMOUTH\MIDIMOD.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\common\textfile.h"\
+	"..\sound\vermouth\midimod.h"\
+	"..\sound\vermouth\midinst.h"\
+	"..\sound\vermouth\midiout.h"\
+	"..\sound\vermouth\midtable.h"\
+	"..\sound\vermouth\midvoice.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\SOUND\VERMOUTH\MIDINST.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\sound\vermouth\midimod.h"\
+	"..\sound\vermouth\midinst.h"\
+	"..\sound\vermouth\midiout.h"\
+	"..\sound\vermouth\midtable.h"\
+	"..\sound\vermouth\midvoice.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\SOUND\VERMOUTH\MIDIOUT.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\sound\vermouth\midimod.h"\
+	"..\sound\vermouth\midinst.h"\
+	"..\sound\vermouth\midiout.h"\
+	"..\sound\vermouth\midtable.h"\
+	"..\sound\vermouth\midvoice.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\VERMOUTH\MIDTABLE.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\sound\vermouth\midimod.h"\
+	"..\sound\vermouth\midinst.h"\
+	"..\sound\vermouth\midiout.h"\
+	"..\sound\vermouth\midtable.h"\
+	"..\sound\vermouth\midvoice.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\VERMOUTH\MIDVOICE.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\sound\vermouth\midimod.h"\
+	"..\sound\vermouth\midinst.h"\
+	"..\sound\vermouth\midiout.h"\
+	"..\sound\vermouth\midtable.h"\
+	"..\sound\vermouth\midvoice.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\GETSND\GETSMIX.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\sound\getsnd\getsnd.h"\
+	"..\sound\getsnd\getsndmn.mcr"\
+	"..\sound\getsnd\getsndst.mcr"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\GETSND\GETSND.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\sound\getsnd\getsnd.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\GETSND\GETWAVE.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\sound\getsnd\getsnd.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\ADPCMC.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\opngen.h"\
+	"..\sound\sound.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\ADPCMG.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\sound.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\BEEPC.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\beep.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\SOUND\BEEPG.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\sound\beep.h"\
+	"..\sound\sound.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\CS4231C.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\CS4231G.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\FMBOARD.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\cbus\amd98.h"\
+	"..\cbus\board118.h"\
+	"..\cbus\board14.h"\
+	"..\cbus\board26k.h"\
+	"..\cbus\board86.h"\
+	"..\cbus\boardspb.h"\
+	"..\cbus\boardx2.h"\
+	"..\cbus\cbuscore.h"\
+	"..\cbus\cs4231io.h"\
+	"..\cbus\pcm86io.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\generic\keydisp.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\keystat.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\beep.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\joymng.h"\
+	".\soundmng.h"\
+	".\trace.h"\
+	
+
+..\SOUND\FMTIMER.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\OPNGENC.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\generic\keydisp.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\OPNGENG.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\PCM86C.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\PCM86G.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\PSGGENC.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\generic\keydisp.h"\
+	"..\sound\psggen.h"\
+	"..\sound\sound.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\PSGGENG.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\parts.h"\
+	"..\common\rect.h"\
+	"..\sound\psggen.h"\
+	"..\sound\sound.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\RHYTHMC.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\S98.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\SOUND.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\wavefile.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\beep.h"\
+	"..\sound\getsnd\getsnd.h"\
+	"..\sound\sndcsec.h"\
+	"..\sound\sound.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\soundmng.h"\
+	".\trace.h"\
+	
+
+..\SOUND\SOUNDROM.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\soundrom.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\SOUND\TMS3631C.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\sound\sound.h"\
+	"..\sound\tms3631.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\SOUND\TMS3631G.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\sound\sound.h"\
+	"..\sound\tms3631.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\FDD\DISKDRV.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\fdd\d88head.h"\
+	"..\fdd\diskdrv.h"\
+	"..\fdd\fddfile.h"\
+	"..\fdd\sxsi.h"\
+	"..\fdd\sxsicd.h"\
+	"..\fdd\sxsihdd.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+..\FDD\FDD_D88.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\fdd\d88head.h"\
+	"..\fdd\fdd_d88.h"\
+	"..\fdd\fddfile.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\FDD\FDD_MTR.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\fdd\fdd_mtr.h"\
+	"..\fdd\fdd_mtr.res"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\sound.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\soundmng.h"\
+	".\trace.h"\
+	
+
+..\FDD\FDD_XDF.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\fdd\d88head.h"\
+	"..\fdd\fdd_xdf.h"\
+	"..\fdd\fddfile.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\FDD\FDDFILE.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\fdd\d88head.h"\
+	"..\fdd\fdd_d88.h"\
+	"..\fdd\fdd_xdf.h"\
+	"..\fdd\fddfile.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+..\FDD\NEWDISK.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\fdd\d88head.h"\
+	"..\fdd\fddfile.h"\
+	"..\fdd\hddboot.res"\
+	"..\fdd\newdisk.h"\
+	"..\fdd\sxsi.h"\
+	"..\fdd\sxsicd.h"\
+	"..\fdd\sxsihdd.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\FDD\SXSI.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\fdd\sxsi.h"\
+	"..\fdd\sxsicd.h"\
+	"..\fdd\sxsihdd.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+..\FDD\SXSICD.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\common\textfile.h"\
+	"..\fdd\sxsi.h"\
+	"..\fdd\sxsicd.h"\
+	"..\fdd\sxsihdd.h"\
+	"..\i286c\cpucore.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+..\FDD\SXSIHDD.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\fdd\sxsi.h"\
+	"..\fdd\sxsicd.h"\
+	"..\fdd\sxsihdd.h"\
+	"..\i286c\cpucore.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+..\FONT\FONT.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\font\font.h"\
+	"..\font\fontdata.h"\
+	"..\font\fontmake.h"\
+	"..\i286c\cpucore.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\FONT\FONTDATA.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\font\font.h"\
+	"..\font\fontdata.h"\
+	"..\font\fontdata.res"\
+	"..\i286c\cpucore.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\FONT\FONTFM7.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\font\font.h"\
+	"..\font\fontdata.h"\
+	"..\i286c\cpucore.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\FONT\FONTMAKE.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\bmpdata.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\parts.h"\
+	"..\common\rect.h"\
+	"..\font\font.h"\
+	"..\font\fontdata.h"\
+	"..\font\fontmake.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\fontmng.h"\
+	".\trace.h"\
+	
+
+..\FONT\FONTPC88.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\font\font.h"\
+	"..\font\fontdata.h"\
+	"..\i286c\cpucore.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\FONT\FONTPC98.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\bmpdata.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\font\font.h"\
+	"..\font\fontdata.h"\
+	"..\i286c\cpucore.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\FONT\FONTV98.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\font\font.h"\
+	"..\font\fontdata.h"\
+	"..\i286c\cpucore.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\FONT\FONTX1.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\parts.h"\
+	"..\common\rect.h"\
+	"..\font\font.h"\
+	"..\font\fontdata.h"\
+	"..\i286c\cpucore.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\FONT\FONTX68K.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\font\font.h"\
+	"..\font\fontdata.h"\
+	"..\i286c\cpucore.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\GENERIC\CMJASTS.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\generic\cmjasts.h"\
+	"..\i286c\cpucore.h"\
+	"..\sound\sound.h"\
+	".\commng.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\GENERIC\CMVER.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\generic\cmver.h"\
+	"..\generic\keydisp.h"\
+	"..\sound\sound.h"\
+	"..\sound\vermouth\vermouth.h"\
+	".\commng.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\GENERIC\DIPSWBMP.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\bmpdata.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\generic\dipswbmp.h"\
+	"..\generic\dipswbmp.res"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\GENERIC\HOSTDRV.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\generic\hostdrv.h"\
+	"..\generic\hostdrv.tbl"\
+	"..\generic\hostdrvs.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\GENERIC\HOSTDRVS.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\generic\hostdrv.h"\
+	"..\generic\hostdrvs.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\GENERIC\NP2INFO.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\generic\np2info.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\scrnmng.h"\
+	".\trace.h"\
+	
+
+..\TRAP\INTTRAP.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\TRAP\STEPTRAP.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+.\DIALOG\D_ABOUT.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\generic\np2info.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dialog\dialog.h"\
+	".\dialog\dialogs.h"\
+	".\np2.h"\
+	".\trace.h"\
+	
+
+.\DIALOG\D_BMP.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\font\font.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\scrnbmp.h"\
+	".\compiler.h"\
+	".\dialog\dialog.h"\
+	".\dialog\dialogs.h"\
+	".\dosio.h"\
+	".\np2.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+.\DIALOG\D_CLND.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\calendar.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dialog\dialog.h"\
+	".\dialog\dialogs.h"\
+	".\np2.h"\
+	".\sysmng.h"\
+	".\timemng.h"\
+	".\trace.h"\
+	
+
+.\DIALOG\D_CONFIG.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dialog\dialog.h"\
+	".\dialog\dialogs.h"\
+	".\dosio.h"\
+	".\np2.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+.\DIALOG\D_DISK.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\fdd\d88head.h"\
+	"..\fdd\diskdrv.h"\
+	"..\fdd\fddfile.h"\
+	"..\fdd\newdisk.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dialog\dialog.h"\
+	".\dialog\dialogs.h"\
+	".\dosio.h"\
+	".\np2.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+.\DIALOG\D_MPU98.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\generic\dipswbmp.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\commng.h"\
+	".\compiler.h"\
+	".\dialog\dialog.h"\
+	".\dialog\dialogs.h"\
+	".\np2.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+.\DIALOG\D_SCREEN.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\palettes.h"\
+	"..\vram\scrndraw.h"\
+	".\compiler.h"\
+	".\dialog\dialog.h"\
+	".\dialog\dialogs.h"\
+	".\np2.h"\
+	".\scrnmng.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+.\DIALOG\D_SOUND.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\generic\dipswbmp.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\s98.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dialog\dialog.h"\
+	".\dialog\dialogs.h"\
+	".\dosio.h"\
+	".\joymng.h"\
+	".\menu.h"\
+	".\np2.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+.\DIALOG\DIALOGS.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\bmpdata.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	".\commng.h"\
+	".\compiler.h"\
+	".\dialog\dialogs.h"\
+	".\dosio.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+.\COMMNG.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\generic\cmjasts.h"\
+	"..\generic\cmver.h"\
+	".\commng.h"\
+	".\compiler.h"\
+	".\np2.h"\
+	".\trace.h"\
+	
+
+.\DOSIO.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+.\FONTMNG.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\fontmng.h"\
+	".\trace.h"\
+	
+
+.\INI.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\profile.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\ini.h"\
+	".\np2.h"\
+	".\trace.h"\
+	".\winkbd.h"\
+	
+
+.\JOYMNG.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\joymng.h"\
+	".\menu.h"\
+	".\np2.h"\
+	".\trace.h"\
+	
+
+.\MENU.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\menu.h"\
+	".\np2.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+.\MOUSEMNG.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\mousemng.h"\
+	".\np2.h"\
+	".\trace.h"\
+	
+
+.\NP2.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\cbus\mpu98ii.h"\
+	"..\cbus\pc9861k.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\parts.h"\
+	"..\common\profile.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\debugsub.h"\
+	"..\fdd\d88head.h"\
+	"..\fdd\diskdrv.h"\
+	"..\fdd\fddfile.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\keystat.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\beep.h"\
+	"..\sound\s98.h"\
+	"..\sound\sound.h"\
+	"..\statsave.h"\
+	"..\timing.h"\
+	"..\vram\scrndraw.h"\
+	".\commng.h"\
+	".\compiler.h"\
+	".\dialog\dialog.h"\
+	".\dosio.h"\
+	".\ini.h"\
+	".\joymng.h"\
+	".\menu.h"\
+	".\mousemng.h"\
+	".\np2.h"\
+	".\np2arg.h"\
+	".\scrnmng.h"\
+	".\soundmng.h"\
+	".\subwind.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	".\winkbd.h"\
+	
+
+.\NP2.RC : \
+	".\ICONS\nekop2.bmp"\
+	".\ICONS\Np2.ico"\
+	
+
+.\NP2ARG.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\np2arg.h"\
+	".\trace.h"\
+	
+
+.\OEMTEXT.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\oemtext.h"\
+	".\trace.h"\
+	
+
+.\SCRNMNG.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\vram\palettes.h"\
+	"..\vram\scrndraw.h"\
+	".\compiler.h"\
+	".\menu.h"\
+	".\mousemng.h"\
+	".\np2.h"\
+	".\scrnmng.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+.\SOUNDMNG.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\parts.h"\
+	"..\common\rect.h"\
+	"..\common\wavefile.h"\
+	"..\generic\cmver.h"\
+	"..\sound\sound.h"\
+	".\commng.h"\
+	".\compiler.h"\
+	".\np2.h"\
+	".\soundmng.h"\
+	".\trace.h"\
+	
+
+.\SYSMNG.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\np2.h"\
+	".\sysmng.h"\
+	".\trace.h"\
+	
+
+.\TASKMNG.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\taskmng.h"\
+	".\trace.h"\
+	
+
+.\TIMEMNG.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	".\compiler.h"\
+	".\timemng.h"\
+	".\trace.h"\
+	
+
+.\TRACE.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\profile.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\ini.h"\
+	".\trace.h"\
+	
+
+.\WINKBD.CPP : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\keystat.h"\
+	".\compiler.h"\
+	".\np2.h"\
+	".\trace.h"\
+	".\winkbd.h"\
+	
+
+..\CALENDAR.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\calendar.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\parts.h"\
+	"..\common\rect.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\timemng.h"\
+	".\trace.h"\
+	
+
+..\DEBUGSUB.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\common\textfile.h"\
+	"..\debugsub.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\KEYSTAT.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\textfile.h"\
+	"..\generic\softkbd.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\keystat.h"\
+	"..\keystat.tbl"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\trace.h"\
+	
+
+..\NEVENT.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\i286c\cpucore.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
+
+..\PCCORE.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\bios\biosmem.h"\
+	"..\calendar.h"\
+	"..\cbus\amd98.h"\
+	"..\cbus\cbuscore.h"\
+	"..\cbus\mpu98ii.h"\
+	"..\cbus\pc9861k.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\debugsub.h"\
+	"..\fdd\d88head.h"\
+	"..\fdd\diskdrv.h"\
+	"..\fdd\fdd_mtr.h"\
+	"..\fdd\fddfile.h"\
+	"..\fdd\sxsi.h"\
+	"..\fdd\sxsicd.h"\
+	"..\fdd\sxsihdd.h"\
+	"..\font\font.h"\
+	"..\generic\hostdrv.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\gdc_sub.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\keystat.h"\
+	"..\nevent.h"\
+	"..\np2ver.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\beep.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\s98.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	"..\timing.h"\
+	"..\vram\dispsync.h"\
+	"..\vram\makegrex.h"\
+	"..\vram\makegrph.h"\
+	"..\vram\maketext.h"\
+	"..\vram\maketgrp.h"\
+	"..\vram\palettes.h"\
+	"..\vram\scrndraw.h"\
+	"..\vram\vram.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\soundmng.h"\
+	".\sysmng.h"\
+	".\timemng.h"\
+	".\trace.h"\
+	
+
+..\STATSAVE.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\bios\bios.h"\
+	"..\calendar.h"\
+	"..\cbus\amd98.h"\
+	"..\cbus\board14.h"\
+	"..\cbus\cbuscore.h"\
+	"..\cbus\ideio.h"\
+	"..\cbus\mpu98ii.h"\
+	"..\cbus\pc9861k.h"\
+	"..\cbus\sasiio.h"\
+	"..\cbus\scsiio.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\common\strres.h"\
+	"..\fdd\d88head.h"\
+	"..\fdd\fdd_mtr.h"\
+	"..\fdd\fddfile.h"\
+	"..\fdd\sxsi.h"\
+	"..\fdd\sxsicd.h"\
+	"..\fdd\sxsihdd.h"\
+	"..\font\font.h"\
+	"..\generic\hostdrv.h"\
+	"..\generic\keydisp.h"\
+	"..\i286c\cpucore.h"\
+	"..\io\artic.h"\
+	"..\io\cgrom.h"\
+	"..\io\cpuio.h"\
+	"..\io\crtc.h"\
+	"..\io\dipsw.h"\
+	"..\io\dmac.h"\
+	"..\io\egc.h"\
+	"..\io\emsio.h"\
+	"..\io\epsonio.h"\
+	"..\io\fdc.h"\
+	"..\io\fdd320.h"\
+	"..\io\gdc.h"\
+	"..\io\gdc_cmd.h"\
+	"..\io\gdc_sub.h"\
+	"..\io\iocore.h"\
+	"..\io\lsidef.h"\
+	"..\io\mouseif.h"\
+	"..\io\necio.h"\
+	"..\io\nmiio.h"\
+	"..\io\np2sysp.h"\
+	"..\io\pic.h"\
+	"..\io\pit.h"\
+	"..\io\printif.h"\
+	"..\io\serial.h"\
+	"..\io\sysport.h"\
+	"..\io\upd4990.h"\
+	"..\keystat.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\sound\adpcm.h"\
+	"..\sound\beep.h"\
+	"..\sound\cs4231.h"\
+	"..\sound\fmboard.h"\
+	"..\sound\fmtimer.h"\
+	"..\sound\opngen.h"\
+	"..\sound\pcm86.h"\
+	"..\sound\psggen.h"\
+	"..\sound\rhythm.h"\
+	"..\sound\sound.h"\
+	"..\sound\soundrom.h"\
+	"..\sound\tms3631.h"\
+	"..\statsave.h"\
+	"..\statsave.tbl"\
+	"..\vram\maketext.h"\
+	"..\vram\palettes.h"\
+	"..\vram\vram.h"\
+	".\commng.h"\
+	".\compiler.h"\
+	".\dosio.h"\
+	".\scrnmng.h"\
+	".\soundmng.h"\
+	".\timemng.h"\
+	".\trace.h"\
+	
+
+..\TIMING.C : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\common.h"\
+	"..\common\_memory.h"\
+	"..\common\lstarray.h"\
+	"..\common\milstr.h"\
+	"..\common\rect.h"\
+	"..\fdd\diskdrv.h"\
+	"..\fdd\fdd_mtr.h"\
+	"..\nevent.h"\
+	"..\pccore.h"\
+	"..\statsave.h"\
+	"..\timing.h"\
+	".\compiler.h"\
+	".\trace.h"\
+	
