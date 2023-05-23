@@ -933,7 +933,11 @@ void dialog_sndopt(HWND hWnd) {
 	PROPSHEETHEADER	psh;
 	HPROPSHEETPAGE	hpsp[6];										// ver0.29
 
+	#ifdef _WIN64
+	hinst = (HINSTANCE)GetWindowLong(hWnd, GWLP_HINSTANCE);
+	#else
 	hinst = (HINSTANCE)GetWindowLong(hWnd, GWL_HINSTANCE);
+	#endif
 
 	ZeroMemory(&psp, sizeof(psp));
 	psp.dwSize = sizeof(PROPSHEETPAGE);

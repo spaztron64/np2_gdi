@@ -321,7 +321,11 @@ const TCHAR		*ext;
 	if (!dlgs_selectwritefile(hWnd, &newdiskui, path, NELEMENTS(path))) {
 		return;
 	}
+	#ifdef _WIN64
+	hinst = (HINSTANCE)GetWindowLong(hWnd, GWLP_HINSTANCE);
+	#else
 	hinst = (HINSTANCE)GetWindowLong(hWnd, GWL_HINSTANCE);
+	#endif
 	ext = file_getext(path);
 	if (!file_cmpname(ext, str_thd)) {
 		hddsize = 0;

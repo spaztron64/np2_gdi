@@ -658,7 +658,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam) {
 			    BITMAP              bmp;
 			    HDC                 hmdc;
 				HBRUSH          hbrush;
-			    hinst = (HINSTANCE)GetWindowLong(hWnd, GWL_HINSTANCE);
+				#ifdef _WIN64
+			    hinst = (HINSTANCE)GetWindowLong(hWnd, GWLP_HINSTANCE);
+				#else
+				hinst = (HINSTANCE)GetWindowLong(hWnd, GWL_HINSTANCE);
+				#endif
 				GetClientRect(hWnd, &rect);
 				width = rect.right - rect.left;
 				height = rect.bottom - rect.top;
