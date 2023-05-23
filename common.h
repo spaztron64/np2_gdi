@@ -24,7 +24,7 @@ enum {
 #endif
 
 #ifndef LOADINTELWORD
-#define	LOADINTELWORD(a)		(((UINT16)(a)[0]) | ((UINT16)(a)[1] << 8))
+#define	LOADINTELWORD(a)		(((UINT16)((UINT8*)(a))[0]) | ((UINT16)(((UINT8*)(a))[1]) << 8))
 #endif
 
 #ifndef STOREINTELDWORD

@@ -47,10 +47,12 @@ typedef	signed __int64		SINT64;
 #define	REG16		UINT
 
 // for x86
+#ifdef _M_X86
 #define	LOADINTELDWORD(a)		(*((UINT32 *)(a)))
 #define	LOADINTELWORD(a)		(*((UINT16 *)(a)))
 #define	STOREINTELDWORD(a, b)	*(UINT32 *)(a) = (b)
 #define	STOREINTELWORD(a, b)	*(UINT16 *)(a) = (b)
+#endif
 
 #define	sigjmp_buf				jmp_buf
 #define	sigsetjmp(env, mask)	setjmp(env)
