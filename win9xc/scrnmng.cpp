@@ -41,6 +41,8 @@ void scrnmng_initialize(void) {
 	g->height = 400;
 }
 
+BITMAPINFO *bmi;
+
 BOOL scrnmng_create(BYTE scrnmode) {
 	PGDI g = &gdi;
 	g->exist = FALSE;
@@ -61,34 +63,46 @@ BOOL scrnmng_create(BYTE scrnmode) {
 		return FAILURE;
 	}
 
-	BITMAPINFO bmi;
-	ZeroMemory(&bmi, sizeof(bmi));
-	bmi.bmiHeader.biSize = sizeof(BITMAPINFOHEADER);
-	bmi.bmiHeader.biWidth = g->width;
-	bmi.bmiHeader.biHeight = -g->height;
-	bmi.bmiHeader.biPlanes = 1;
-	bmi.bmiHeader.biBitCount = 32;
-	bmi.bmiHeader.biCompression = BI_RGB;
+	bmi = (BITMAPINFO *)GlobalAlloc(GMEM_FIXED, sizeof(BITMAPINFOHEADER) + g->width * g->height * 3);
+	if(bmi == NULL){
+		return FAILURE;
+	}
+	ZeroMemory(bmi, sizeof(BITMAPINFOHEADER));
+	bmi->bmiHeader.biSize = sizeof(BITMAPINFOHEADER);
+	bmi->bmiHeader.biWidth = g->width;
+	bmi->bmiHeader.biHeight = g->height;
+	bmi->bmiHeader.biPlanes = 1;
+	bmi->bmiHeader.biBitCount = 24;
+	bmi->bmiHeader.biCompression = BI_RGB;
+	g->bitmapData = (BYTE*)bmi+sizeof(BITMAPINFOHEADER);
 
-	g->hBitmap = CreateDIBSection(g->hdc, &bmi, DIB_RGB_COLORS, (void**)&(g->bitmapData), NULL, 0);
+	/*g->hBitmap = CreateDIBSection(g->hdc, &bmi, DIB_RGB_COLORS, (void**)&(g->bitmapData), NULL, 0);
 	if (g->hBitmap == NULL) {
 		DeleteDC(g->hdc);
 		ReleaseDC(g->hWnd, hDC);
 		return FAILURE;
 	}
 
-	SelectObject(g->hdc, g->hBitmap);
+	SelectObject(g->hdc, g->hBitmap);*/
+
+	/*g->bitmapData = (unsigned char*)malloc(g->width * g->height * 4);
+
+	if(g->bitmapData == NULL){
+		return FAILURE;
+	}*/
+
 	g->exist = TRUE;
 	return SUCCESS;
 }
 
 void scrnmng_destroy(void) {
-	PGDI g = &gdi;
+	GlobalFree(bmi);
+	/*PGDI g = &gdi;
 	if (g->exist) {
 		DeleteObject(g->hBitmap);
 		DeleteDC(g->hdc);
 		g->exist = FALSE;
-	}
+	}*/
 }
 
 void scrnmng_setwidth(int posx, int width) {
@@ -120,12 +134,12 @@ const SCRNSURF* scrnmng_surflock(void) {
 	}
 
 	scrnsurf.ptr = g->bitmapData;
-	scrnsurf.xalign = 4;
-	scrnsurf.yalign = g->width * 4;
+	scrnsurf.xalign = 3;
+	scrnsurf.yalign = g->width * 3;
 	scrnsurf.width = g->width;
 	scrnsurf.height = g->height;
 	scrnsurf.extend = 0;
-	scrnsurf.bpp = 32;
+	scrnsurf.bpp = 24;
 	return &scrnsurf;
 }
 
@@ -133,7 +147,13 @@ void scrnmng_surfunlock(const SCRNSURF* surf) {
 	if (surf) {
 		PGDI g = &gdi;
 		HDC hDC = GetDC(g->hWnd);
-		BitBlt(hDC, 0, 0, g->width, g->height, g->hdc, 0, 0, SRCCOPY);
+		//BitBlt(hDC, 0, 0, g->width, g->height, g->hdc, 0, 0, SRCCOPY);
+		if(!StretchDIBits(hDC, 0, g->height, g->width, -g->height, 0, 0, g->width, g->height, g->bitmapData, bmi, DIB_RGB_COLORS, SRCCOPY)){
+			char tmp[100];
+			wsprintf(tmp,"GetLastError=%d",GetLastError());
+			TextOut(hDC, 0, 0, tmp, strlen(tmp));
+			FlashWindow(g->hWnd,1);
+		}
 		ReleaseDC(g->hWnd, hDC);
 	}
 }
