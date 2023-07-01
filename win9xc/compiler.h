@@ -110,8 +110,8 @@ typedef	signed __int64		SINT64;
 
 // #define	SUPPORT_8BPP
 #define	SUPPORT_16BPP
-// #define	SUPPORT_24BPP
-#define	SUPPORT_32BPP
+#define	SUPPORT_24BPP
+//#define	SUPPORT_32BPP
 #define SUPPORT_NORMALDISP
 #define	MEMOPTIMIZE		1
 

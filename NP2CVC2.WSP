@@ -1,0 +1,27 @@
+[Header]
+Version=1.10 .00000.0619
+WinVer=4
+WorkspaceName0=&Edit
+WorkspaceName1=&Debug
+WorkspaceName2=&Custom
+Initial=3
+PromptWhenSave=1
+CloseWindow=1
+Status=-1 -1 -1 1
+[Workspace3]
+Coord=88 88 856 625
+Style=399441920
+RibbonHidden=0
+StatusHidden=0
+WindowNumber=1
+[WindowWorkspace30]
+Type=4
+DuplicateNb=1
+Coord=44 44 1024 491
+Style=0
+Font=-13 0 0 0 400 0 0 0 0 0 0 0 0
+FaceName=Courier
+Language=0
+TopMostWindow=1
+FileName=Output - Build
+CursorPosition=672 703 0
